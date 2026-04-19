@@ -35,7 +35,10 @@ paola_philo/
 │   ├── 01-methode-dissertation.html + .md + .pdf
 │   ├── 02-methode-explication.html + .md + .pdf
 │   ├── 03-conscience.html + .md + .pdf
-│   └── 04-inconscient.html + .md + .pdf
+│   ├── 04-inconscient.html + .md + .pdf
+│   ├── 05-raison.html + .md + .pdf
+│   ├── 06-verite.html + .md + .pdf
+│   └── 07-science.html + .md + .pdf
 ├── reperes/
 │   └── reperes-complets.html + .md + .pdf
 ├── build/
@@ -118,7 +121,7 @@ Pour repartir à zéro : vider le localStorage du site dans les paramètres du n
 ## 📅 Calendrier de livraison
 
 - **Batch 1** ✓ — Méthodologie + Conscience + Inconscient + Repères
-- **Batch 2** — Raison / Vérité / Science (prévu fin avril)
+- **Batch 2** ✓ — Raison / Vérité / Science
 - **Batch 3** — Nature / Technique / Travail (début mai)
 - **Batch 4** — Art / Langage / Religion (mi-mai)
 - **Batch 5** — Liberté / Bonheur / Temps (fin mai)

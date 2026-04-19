@@ -27,6 +27,9 @@ HTML_FILES = [
     "fiches/02-methode-explication.html",
     "fiches/03-conscience.html",
     "fiches/04-inconscient.html",
+    "fiches/05-raison.html",
+    "fiches/06-verite.html",
+    "fiches/07-science.html",
     "reperes/reperes-complets.html",
 ]
 
