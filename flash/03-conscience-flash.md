@@ -34,3 +34,11 @@ La conscience donne-t-elle un accès vrai à soi, ou enferme-t-elle dans une rep
 
 - Ne pas confondre conscience psychologique et morale.
 - Ne pas opposer frontalement conscience / inconscient.
+- Cogito = **acte** (verbe), conscience = état rétrospectif.
+
+## Cours du prof — à mobiliser
+
+- **Doute méthodique en 4 étapes** : illusions sensibles → rêve → malin génie → cuve de Putnam.
+- **3 substances** : *res cogitans* / *res extensa* / composée (aporie du corps propre).
+- **Critique du Cogito** : Lichtenberg/Nietzsche (« il pense, comme il pleut »), Rimbaud (« Je est un autre »).
+- Étymologie : *sub-jectum* / *ob-jectum*.

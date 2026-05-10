@@ -34,3 +34,13 @@ L'hypothèse d'un inconscient ruine-t-elle la liberté du sujet, ou la rend-elle
 
 - Toujours préciser de quel inconscient on parle (automatique vs freudien).
 - Ne jamais réciter Freud sans présenter ses critiques (Sartre, Popper).
+- Distinguer **topique statique** (pyramide Cs/Pcs/Ics) et **dynamique** (iceberg Ça/Moi/Surmoi).
+
+## Cours du prof — à mobiliser
+
+- **Origine clinique** : Charcot (hypnose), Breuer + cas *Anna O.* (talking cure).
+- **Phases de cure** : déni → abréaction → *transfert* → sublimation.
+- **Mécanismes** : condensation, déplacement, souvenir-écran.
+- **Pulsion de mort** (Freud, *Au-delà du principe de plaisir*, 1920) — auto-objection.
+- **Sartre · Les Mouches** (1943) : Œdipe (déterminé) vs Oreste (libre).
+- **Mauvaise foi métaphysique** ≠ empirique.
