@@ -1,25 +1,39 @@
 # Paola · Révisions Philo — Bac 2026
 
-Programme de révisions progressif, du 23 avril au 14 juin 2026, pour l'épreuve de philosophie du baccalauréat général (lundi 15 juin 2026, 8h–12h, coefficient 8).
+Site de révisions pour l'épreuve de philosophie du baccalauréat général (mardi 9 juin 2026, coefficient 8).
 
 Site en ligne : **[flav256.github.io/paola_philo](https://flav256.github.io/paola_philo/)**
 
 ---
 
-## 📋 Structure du programme
+## 📋 Structure — 9 groupes thématiques
 
-**8 blocs progressifs** couvrant les 17 notions officielles + méthodologie + repères + annales :
+Le programme couvre **17 notions officielles**, regroupées en **9 blocs par affinités thématiques** :
 
-| Bloc | Semaine | Thème |
+| Bloc | Thème | Notions |
 |---|---|---|
-| 01 | 23–29 avril | Fondations méthodologiques (Conscience, Inconscient, Repères) |
-| 02 | 30 avril–6 mai | Connaissance & vérité (Raison, Vérité, Science) |
-| 03 | 7–13 mai | Nature, Technique, Travail |
-| 04 | 14–20 mai | Art, Langage, Religion |
-| 05 | 21–27 mai | Liberté, Bonheur, Temps |
-| 06 | 28 mai–3 juin | Devoir, Justice, État |
-| 07 | 4–10 juin | Transversal & annales corrigées |
-| 08 | 11–14 juin | Sprint final — fiches flash |
+| 01 | Le sujet et soi | Conscience, Inconscient |
+| 02 | Croire et savoir | Vérité, Raison, Religion |
+| 03 | Connaître le réel | Science, Nature |
+| 04 | Agir, transformer | Travail, Technique |
+| 05 | Création | Art |
+| 06 | Communiquer | Langage |
+| 07 | Vivre, choisir | Bonheur, Devoir, Liberté |
+| 08 | Vivre ensemble | État, Justice |
+| 09 | L'expérience | Temps |
+
+À cela s'ajoutent : **Méthodologie** (dissertation + explication de texte), **Repères philosophiques** (29 distinctions), **Sprint final** (fiches flash, citations transverses, annales corrigées).
+
+---
+
+## 📐 Deux formats par notion
+
+Chaque notion existe en **deux versions** :
+
+- **Fiche longue** (~3 pages) — pour l'apprentissage. Format compact à 6 sections : définitions, problématique pivot, 3 thèses clés, 2 citations, plan-type condensé, pièges + liens.
+- **Fiche flash** (~1 page) — pour le sprint final. L'essentiel à mémoriser : bullets, citations en gras, plan résumé en 5 lignes.
+
+Chaque fiche est disponible en **3 formats** : HTML (web responsive + mode sombre), Markdown (source pour NotebookLM), PDF (A4 optimisé pour l'impression).
 
 ---
 
@@ -27,108 +41,97 @@ Site en ligne : **[flav256.github.io/paola_philo](https://flav256.github.io/paol
 
 ```
 paola_philo/
-├── index.html                         ← Dashboard principal
+├── index.html                         ← Dashboard 9 blocs
 ├── assets/
-│   ├── style.css                      ← Design (cahier philo)
+│   ├── style.css                      ← Design tokens
 │   └── script.js                      ← Thème + progression + countdown
-├── fiches/
-│   ├── 01-methode-dissertation.html + .md + .pdf
-│   ├── 02-methode-explication.html + .md + .pdf
-│   ├── 03-conscience.html + .md + .pdf
-│   ├── 04-inconscient.html + .md + .pdf
-│   ├── 05-raison.html + .md + .pdf
-│   ├── 06-verite.html + .md + .pdf
-│   └── 07-science.html + .md + .pdf
+├── fiches/                            ← Fiches longues
+│   ├── 01-methode-dissertation.*
+│   ├── 02-methode-explication.*
+│   ├── 03-conscience.*  → 07-science.*
+│   └── (12 notions à venir)
+├── flash/                             ← Fiches flash 1 page (à créer)
 ├── reperes/
-│   └── reperes-complets.html + .md + .pdf
+│   └── reperes-complets.*
+├── annales/                           ← Annales corrigées (à venir)
 ├── build/
-│   └── generate_pdf.py                ← Régénérer les PDFs depuis le HTML
-├── .nojekyll                          ← Désactive Jekyll sur GitHub Pages
+│   └── generate_pdf.py
+├── .nojekyll
 └── README.md
 ```
 
-Chaque fiche existe en **3 formats** :
-- **HTML** : consultation web (responsive, mobile + desktop, mode sombre)
-- **Markdown** : source propre pour import dans NotebookLM
-- **PDF** : impression / archive (mise en page A4 optimisée)
+---
+
+## 🗓 Plan de production — sprint mai-juin
+
+| Phase | Période | Livrable |
+|---|---|---|
+| **A** · Refonte structure | 10–13 mai | Dashboard 9 blocs · template court · refonte des 5 fiches existantes |
+| **B** · Nouvelles fiches longues | 14–25 mai | 12 fiches manquantes (Liberté, Bonheur, Devoir, Justice, État, Travail, Technique, Nature, Art, Langage, Religion, Temps) |
+| **D** · Fiches flash | 26 mai – 5 juin | 17 mémos 1 page (toutes notions) |
+| **E** · Sprint final | 6–8 juin | Annales corrigées + mémo citations transverses |
 
 ---
 
-## 🎯 Structure d'une fiche notionnelle (3 pages)
+## 📚 État actuel — 10 mai 2026
 
-1. Définitions (sens courant, sens philosophiques, étymologie)
-2. Problématiques classiques
-3. Repères à mobiliser
-4. Thèses majeures (3 à 6 auteurs synthétisés)
-5. Citations clés
-6. Exemples concrets
-7. Sujets tombés au bac
-8. Plan-type détaillé (sujet + problématique + 3 parties rédigées)
-9. Pièges à éviter
-10. Liens avec les autres notions
+**Fait** :
+- Méthodologie (dissertation + explication)
+- Repères philosophiques
+- 5 notions au format long : conscience, inconscient, raison, vérité, science
+- Conscience reformatée au nouveau format court (template de référence)
+
+**À faire** :
+- Refonte format court : inconscient, raison, vérité, science (4)
+- Nouvelles fiches longues : 12 notions
+- Fiches flash : 17 (toutes notions)
+- Annales corrigées récentes
+- Mémo citations transverse
 
 ---
 
-## 🎧 Utiliser NotebookLM pour les podcasts
+## 🎯 Format de la fiche longue (~3 pages)
 
-Chaque fiche possède un `.md` accessible en brut via GitHub :
+1. **Définitions** — étymologie + sens philosophiques
+2. **Problématique pivot** — une seule question, en encadré
+3. **Trois thèses clés** — 3 auteurs synthétisés en 1 paragraphe chacun
+4. **Citations à mémoriser** — 2 citations, attribution claire
+5. **Plan-type condensé** — sujet bac + 3 parties en bullets
+6. **Pièges & liens** — 2-3 pièges classiques + pills vers notions liées
 
+---
+
+## 🎧 Podcasts NotebookLM
+
+Certaines fiches ont un podcast NotebookLM intégré (bouton 🎧 sur la fiche). À ce jour :
+- Session 01 : Méthodologie de la dissertation
+- Session 02 : Méthodologie de l'explication de texte
+
+Les `.md` sont consommables directement par NotebookLM via leur URL raw GitHub :
 ```
-https://raw.githubusercontent.com/flav256/paola_philo/main/fiches/03-conscience.md
+https://raw.githubusercontent.com/flav256/paola_philo/main/fiches/<fiche>.md
 ```
-
-Dans **NotebookLM** :
-1. Créer un nouveau notebook pour la révision
-2. « Add source » → « Website » → coller l'URL raw de la fiche
-3. Générer un « Audio overview » pour avoir un podcast de 10–15 min
-4. Idéal pour écouter en voiture, à la salle, avant de dormir
 
 ---
 
-## 🖨 Imprimer les fiches
+## 🛠 Régénérer les PDFs
 
-Deux options :
-- **Depuis le navigateur** : chaque fiche a un CSS `@media print` optimisé (A4, 1.6cm de marges, masquage du header/navigation). Ctrl/Cmd + P sur la fiche.
-- **PDF pré-généré** : bouton « ⬇ PDF » en haut de chaque fiche.
-
-Pour régénérer tous les PDFs :
 ```bash
-pip install weasyprint
-python build/generate_pdf.py
+brew install pango   # macOS, une seule fois
+pip install weasyprint --break-system-packages
+DYLD_FALLBACK_LIBRARY_PATH="/opt/homebrew/lib" python build/generate_pdf.py
 ```
 
 ---
 
-## ✅ Suivi de progression
-
-Sur le dashboard, cocher la case ✓ à gauche de chaque fiche une fois revue. La progression est sauvegardée dans le `localStorage` du navigateur — **persistante sur un même appareil/navigateur**, sans compte à créer.
-
-Pour repartir à zéro : vider le localStorage du site dans les paramètres du navigateur.
-
----
-
-## 🔧 Stack technique
+## ⚙️ Stack
 
 - HTML/CSS/JS vanilla, zéro dépendance runtime
-- Fonts via Google Fonts (Fraunces, Crimson Pro, IBM Plex Sans)
-- Génération PDF par WeasyPrint (Python)
-- Hébergement GitHub Pages (branche `main`, racine)
-- Pas d'analytics, pas de tracker, pas de cookie
-- `noindex` sur toutes les pages — non indexé par les moteurs de recherche
+- Google Fonts : Fraunces, Crimson Pro, IBM Plex Sans
+- Génération PDF : WeasyPrint
+- Hébergement : GitHub Pages (branche `main`, racine)
+- Pas d'analytics, pas de tracker, `noindex` sur toutes les pages
 
 ---
 
-## 📅 Calendrier de livraison
-
-- **Batch 1** ✓ — Méthodologie + Conscience + Inconscient + Repères
-- **Batch 2** ✓ — Raison / Vérité / Science
-- **Batch 3** — Nature / Technique / Travail (début mai)
-- **Batch 4** — Art / Langage / Religion (mi-mai)
-- **Batch 5** — Liberté / Bonheur / Temps (fin mai)
-- **Batch 6** — Devoir / Justice / État (début juin)
-- **Batch 7** — Annales corrigées & transversal
-- **Batch 8** — Fiches flash finales
-
----
-
-*Bonne révision, Paola — et bon courage pour le 15 juin. ✒*
+*Bonne révision Paola — bon courage pour le 9 juin. ✒*

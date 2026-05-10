@@ -96,7 +96,7 @@
   function initCountdown() {
     const el = document.querySelector('.countdown .count');
     if (!el) return;
-    const exam = new Date('2026-06-15T08:00:00+04:00');
+    const exam = new Date('2026-06-09T08:00:00+04:00');
     const now = new Date();
     const diff = exam - now;
     const days = Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)));

@@ -27,10 +27,10 @@
 <main>
 
   <section class="hero">
-    <p class="kicker">Terminale générale — Bac 2026</p>
-    <h1>Un <em>programme</em> progressif<br>pour préparer la philo.</h1>
+    <p class="kicker">Terminale générale — Bac 2026 · Sprint final</p>
+    <h1>17 notions, <em>9 groupes</em>,<br>2 formats par fiche.</h1>
     <p class="subtitle">
-      Huit blocs thématiques, du 23 avril au 14 juin. Chaque fiche tient sur trois pages — consultable ici, imprimable en PDF, ou importable dans NotebookLM pour générer un podcast à écouter.
+      Chaque notion est disponible en deux versions : une <strong>fiche longue</strong> (3 pages, apprentissage) et une <strong>fiche flash</strong> (1 page, révision express). Toutes les notions du programme sont regroupées par affinités thématiques, pour faciliter les croisements au bac.
     </p>
     <div class="countdown">
       <span class="count">—</span><span class="label">jours avant l'épreuve</span>
@@ -49,8 +49,32 @@
     </div>
   </div>
 
+  <!-- Méthodologie -->
   <h2 class="section-title">
-    <span class="num">I</span> Plan de révision · 8 blocs
+    <span class="num">I</span> Méthodologie
+  </h2>
+  <div class="blocks">
+    <article class="block" data-block="methodo">
+      <div class="block-header">
+        <span class="block-num">M</span>
+        <span class="block-dates">Maîtrise<br>des épreuves</span>
+      </div>
+      <h3>Méthodes des deux épreuves</h3>
+      <ul>
+        <li><span class="check" data-fiche="methode-dissertation"></span><a href="fiches/01-methode-dissertation.html">Méthode · Dissertation</a></li>
+        <li><span class="check" data-fiche="methode-explication"></span><a href="fiches/02-methode-explication.html">Méthode · Explication de texte</a></li>
+        <li><span class="check" data-fiche="reperes"></span><a href="reperes/reperes-complets.html">Repères philosophiques (29 distinctions)</a></li>
+      </ul>
+      <div class="progress">
+        <span>Progression</span><span class="progress-count">0/3</span>
+      </div>
+      <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
+    </article>
+  </div>
+
+  <!-- 9 blocs notionnels -->
+  <h2 class="section-title">
+    <span class="num">II</span> 17 notions · 9 groupes thématiques
   </h2>
 
   <div class="blocks">
@@ -59,18 +83,15 @@
     <article class="block" data-block="1">
       <div class="block-header">
         <span class="block-num">01</span>
-        <span class="block-dates">23–29 avril<br>Semaine 1</span>
+        <span class="block-dates">Le sujet et soi</span>
       </div>
-      <h3>Fondations méthodologiques</h3>
+      <h3>Conscience &amp; Inconscient</h3>
       <ul>
-        <li><span class="check" data-fiche="methode-dissertation"></span><a href="fiches/01-methode-dissertation.html">Méthode · Dissertation</a></li>
-        <li><span class="check" data-fiche="methode-explication"></span><a href="fiches/02-methode-explication.html">Méthode · Explication de texte</a></li>
         <li><span class="check" data-fiche="conscience"></span><a href="fiches/03-conscience.html">La conscience</a></li>
         <li><span class="check" data-fiche="inconscient"></span><a href="fiches/04-inconscient.html">L'inconscient</a></li>
-        <li><span class="check" data-fiche="reperes"></span><a href="reperes/reperes-complets.html">Repères philosophiques</a></li>
       </ul>
       <div class="progress">
-        <span>Progression</span><span class="progress-count">0/5</span>
+        <span>Progression</span><span class="progress-count">0/2</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
@@ -79,13 +100,13 @@
     <article class="block" data-block="2">
       <div class="block-header">
         <span class="block-num">02</span>
-        <span class="block-dates">30 avril–6 mai<br>Semaine 2</span>
+        <span class="block-dates">Croire et savoir</span>
       </div>
-      <h3>Connaissance &amp; vérité</h3>
+      <h3>Vérité, Raison &amp; Religion</h3>
       <ul>
-        <li><span class="check" data-fiche="raison"></span><a href="fiches/05-raison.html">La raison</a></li>
         <li><span class="check" data-fiche="verite"></span><a href="fiches/06-verite.html">La vérité</a></li>
-        <li><span class="check" data-fiche="science"></span><a href="fiches/07-science.html">La science</a></li>
+        <li><span class="check" data-fiche="raison"></span><a href="fiches/05-raison.html">La raison</a></li>
+        <li class="locked"><span class="check" data-fiche="religion"></span><a href="#">La religion</a></li>
       </ul>
       <div class="progress">
         <span>Progression</span><span class="progress-count">0/3</span>
@@ -97,16 +118,15 @@
     <article class="block" data-block="3">
       <div class="block-header">
         <span class="block-num">03</span>
-        <span class="block-dates">7–13 mai<br>Semaine 3</span>
+        <span class="block-dates">Connaître le réel</span>
       </div>
-      <h3>Nature, technique, travail</h3>
+      <h3>Science &amp; Nature</h3>
       <ul>
+        <li><span class="check" data-fiche="science"></span><a href="fiches/07-science.html">La science</a></li>
         <li class="locked"><span class="check" data-fiche="nature"></span><a href="#">La nature</a></li>
-        <li class="locked"><span class="check" data-fiche="technique"></span><a href="#">La technique</a></li>
-        <li class="locked"><span class="check" data-fiche="travail"></span><a href="#">Le travail</a></li>
       </ul>
       <div class="progress">
-        <span>À venir</span><span class="progress-count">0/3</span>
+        <span>Progression</span><span class="progress-count">0/2</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
@@ -115,16 +135,15 @@
     <article class="block" data-block="4">
       <div class="block-header">
         <span class="block-num">04</span>
-        <span class="block-dates">14–20 mai<br>Semaine 4</span>
+        <span class="block-dates">Agir, transformer</span>
       </div>
-      <h3>Culture &amp; expression</h3>
+      <h3>Travail &amp; Technique</h3>
       <ul>
-        <li class="locked"><span class="check" data-fiche="art"></span><a href="#">L'art</a></li>
-        <li class="locked"><span class="check" data-fiche="langage"></span><a href="#">Le langage</a></li>
-        <li class="locked"><span class="check" data-fiche="religion"></span><a href="#">La religion</a></li>
+        <li class="locked"><span class="check" data-fiche="travail"></span><a href="#">Le travail</a></li>
+        <li class="locked"><span class="check" data-fiche="technique"></span><a href="#">La technique</a></li>
       </ul>
       <div class="progress">
-        <span>À venir</span><span class="progress-count">0/3</span>
+        <span>À venir</span><span class="progress-count">0/2</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
@@ -133,16 +152,14 @@
     <article class="block" data-block="5">
       <div class="block-header">
         <span class="block-num">05</span>
-        <span class="block-dates">21–27 mai<br>Semaine 5</span>
+        <span class="block-dates">Création</span>
       </div>
-      <h3>Liberté &amp; existence</h3>
+      <h3>L'art</h3>
       <ul>
-        <li class="locked"><span class="check" data-fiche="liberte"></span><a href="#">La liberté</a></li>
-        <li class="locked"><span class="check" data-fiche="bonheur"></span><a href="#">Le bonheur</a></li>
-        <li class="locked"><span class="check" data-fiche="temps"></span><a href="#">Le temps</a></li>
+        <li class="locked"><span class="check" data-fiche="art"></span><a href="#">L'art</a></li>
       </ul>
       <div class="progress">
-        <span>À venir</span><span class="progress-count">0/3</span>
+        <span>À venir</span><span class="progress-count">0/1</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
@@ -151,16 +168,14 @@
     <article class="block" data-block="6">
       <div class="block-header">
         <span class="block-num">06</span>
-        <span class="block-dates">28 mai–3 juin<br>Semaine 6</span>
+        <span class="block-dates">Communiquer</span>
       </div>
-      <h3>Morale &amp; politique</h3>
+      <h3>Le langage</h3>
       <ul>
-        <li class="locked"><span class="check" data-fiche="devoir"></span><a href="#">Le devoir</a></li>
-        <li class="locked"><span class="check" data-fiche="justice"></span><a href="#">La justice</a></li>
-        <li class="locked"><span class="check" data-fiche="etat"></span><a href="#">L'État</a></li>
+        <li class="locked"><span class="check" data-fiche="langage"></span><a href="#">Le langage</a></li>
       </ul>
       <div class="progress">
-        <span>À venir</span><span class="progress-count">0/3</span>
+        <span>À venir</span><span class="progress-count">0/1</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
@@ -169,13 +184,13 @@
     <article class="block" data-block="7">
       <div class="block-header">
         <span class="block-num">07</span>
-        <span class="block-dates">4–10 juin<br>Semaine 7</span>
+        <span class="block-dates">Vivre, choisir</span>
       </div>
-      <h3>Transversal &amp; entraînement</h3>
+      <h3>Bonheur, Devoir &amp; Liberté</h3>
       <ul>
-        <li class="locked"><span class="check" data-fiche="croisements"></span><a href="#">Croisements de notions</a></li>
-        <li class="locked"><span class="check" data-fiche="annales"></span><a href="#">Annales corrigées</a></li>
-        <li class="locked"><span class="check" data-fiche="synthese"></span><a href="#">Fiches de synthèse</a></li>
+        <li class="locked"><span class="check" data-fiche="bonheur"></span><a href="#">Le bonheur</a></li>
+        <li class="locked"><span class="check" data-fiche="devoir"></span><a href="#">Le devoir</a></li>
+        <li class="locked"><span class="check" data-fiche="liberte"></span><a href="#">La liberté</a></li>
       </ul>
       <div class="progress">
         <span>À venir</span><span class="progress-count">0/3</span>
@@ -187,49 +202,100 @@
     <article class="block" data-block="8">
       <div class="block-header">
         <span class="block-num">08</span>
-        <span class="block-dates">11–14 juin<br>Sprint final</span>
+        <span class="block-dates">Vivre ensemble</span>
       </div>
-      <h3>Fiches flash · J-4 à J-1</h3>
+      <h3>État, Droit &amp; Justice</h3>
       <ul>
-        <li class="locked"><span class="check" data-fiche="flash-notions"></span><a href="#">17 fiches flash (1 page)</a></li>
-        <li class="locked"><span class="check" data-fiche="flash-citations"></span><a href="#">Mémo citations clés</a></li>
-        <li class="locked"><span class="check" data-fiche="flash-plans"></span><a href="#">Plans-type mémorisables</a></li>
+        <li class="locked"><span class="check" data-fiche="etat"></span><a href="#">L'État</a></li>
+        <li class="locked"><span class="check" data-fiche="justice"></span><a href="#">La justice</a></li>
       </ul>
       <div class="progress">
-        <span>À venir</span><span class="progress-count">0/3</span>
+        <span>À venir</span><span class="progress-count">0/2</span>
+      </div>
+      <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
+    </article>
+
+    <!-- Bloc 9 -->
+    <article class="block" data-block="9">
+      <div class="block-header">
+        <span class="block-num">09</span>
+        <span class="block-dates">L'expérience</span>
+      </div>
+      <h3>Le temps</h3>
+      <ul>
+        <li class="locked"><span class="check" data-fiche="temps"></span><a href="#">Le temps</a></li>
+      </ul>
+      <div class="progress">
+        <span>À venir</span><span class="progress-count">0/1</span>
       </div>
       <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
     </article>
 
   </div>
 
+  <!-- Sprint final -->
   <h2 class="section-title">
-    <span class="num">II</span> Mode d'emploi
+    <span class="num">III</span> Sprint final · Fiches flash &amp; entraînement
+  </h2>
+  <div class="blocks">
+    <article class="block" data-block="flash">
+      <div class="block-header">
+        <span class="block-num">F</span>
+        <span class="block-dates">Révision express<br>1 page / notion</span>
+      </div>
+      <h3>17 fiches flash · J-7 à J-1</h3>
+      <ul>
+        <li class="locked"><span class="check" data-fiche="flash-notions"></span><a href="#">17 fiches flash (1 page chacune)</a></li>
+        <li class="locked"><span class="check" data-fiche="flash-citations"></span><a href="#">Mémo citations clés transverse</a></li>
+        <li class="locked"><span class="check" data-fiche="flash-annales"></span><a href="#">Annales corrigées récentes</a></li>
+      </ul>
+      <div class="progress">
+        <span>À venir</span><span class="progress-count">0/3</span>
+      </div>
+      <div class="progress-bar"><div class="progress-bar-fill" style="width: 0%;"></div></div>
+    </article>
+  </div>
+
+  <!-- Mode d'emploi -->
+  <h2 class="section-title">
+    <span class="num">IV</span> Mode d'emploi
   </h2>
 
   <div class="blocks">
     <div class="block">
-      <h3>📖 Lire la fiche</h3>
+      <h3>📖 Fiche longue</h3>
       <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
-        Chaque fiche tient sur trois pages : définitions, problématiques, repères, auteurs, citations, sujets types, plan-type, pièges, liens. Ni trop courte ni indigeste.
+        ~3 pages : définitions, problématique pivot, 3 thèses majeures, 2 citations clés, 1 plan-type, pièges. Pour apprendre une notion à fond.
       </p>
     </div>
     <div class="block">
-      <h3>🎧 Écouter le podcast</h3>
+      <h3>⚡ Fiche flash</h3>
       <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
-        Chaque fiche est aussi disponible en Markdown brut, à uploader dans NotebookLM pour générer un podcast — idéal en voiture ou en déplacement avant de revenir au texte.
+        ~1 page : l'essentiel à mémoriser pour le sprint final. Bullets, citations, plan résumé en 5 lignes. Idéale dans les jours avant l'épreuve.
+      </p>
+    </div>
+    <div class="block">
+      <h3>🎧 Podcast NotebookLM</h3>
+      <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
+        Certaines fiches ont un podcast NotebookLM intégré (bouton 🎧 sur la fiche). Idéal pour réviser en voiture ou en déplacement.
       </p>
     </div>
     <div class="block">
       <h3>🖨️ Imprimer ou PDF</h3>
       <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
-        Impression directe depuis le navigateur (mise en page optimisée) ou téléchargement du PDF pré-généré depuis chaque fiche.
+        Impression depuis le navigateur (mise en page A4 optimisée) ou PDF pré-généré téléchargeable depuis chaque fiche.
       </p>
     </div>
     <div class="block">
-      <h3>✅ Suivre sa progression</h3>
+      <h3>✅ Progression locale</h3>
       <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
-        Coche la case à gauche de chaque fiche une fois revue. La progression est conservée dans ce navigateur (pas de compte à créer).
+        Coche les fiches revues — sauvegardé dans le navigateur, sans compte. Repartir à zéro = vider le localStorage du site.
+      </p>
+    </div>
+    <div class="block">
+      <h3>🌒 Mode sombre</h3>
+      <p style="font-size: 0.95rem; color: var(--ink-soft); margin: 0;">
+        Bouton ☼ / ☾ en haut à droite. Confort de lecture le soir, sans casser la mise en page imprimable.
       </p>
     </div>
   </div>
