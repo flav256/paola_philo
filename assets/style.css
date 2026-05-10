@@ -572,6 +572,90 @@ main {
   font-weight: 600;
 }
 .plan h4:first-of-type { margin-top: 0; }
+
+/* === Fiche transverse — boxes "thèse de partie" === */
+.these-box {
+  border-radius: 8px;
+  padding: 0.9rem 1.2rem;
+  margin: 0.6rem 0 1.2rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  border-left: 4px solid;
+}
+.these-box .these-label {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+  opacity: 0.85;
+}
+.these-box.green {
+  background: #e8f3eb;
+  border-left-color: #2d6a4f;
+  color: #1a3d2c;
+}
+.these-box.blue {
+  background: #e3eaf3;
+  border-left-color: #1a3a5c;
+  color: #102540;
+}
+.these-box.gold {
+  background: #f9f0d9;
+  border-left-color: #c19a3e;
+  color: #5a3f0a;
+}
+.these-box.red {
+  background: #fde4e6;
+  border-left-color: #c0392b;
+  color: #6e1f15;
+}
+[data-theme="dark"] .these-box.green { background: #1f3329; color: #c8dfd0; }
+[data-theme="dark"] .these-box.blue  { background: #1c2940; color: #cdd9eb; }
+[data-theme="dark"] .these-box.gold  { background: #3a2e15; color: #ecdba0; }
+[data-theme="dark"] .these-box.red   { background: #3a1d18; color: #f3c5be; }
+
+/* Badge "transverse" sur fiche-meta */
+.fiche-meta .bloc.transverse {
+  background: var(--accent);
+  color: var(--bg);
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-weight: 600;
+}
+
+/* Note "hors cours du prof" */
+.hors-cours {
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  font-style: italic;
+  border-left: 2px dashed var(--rule);
+  padding: 0.3rem 0.7rem;
+  margin: 0.4rem 0;
+  background: var(--bg-elevated);
+}
+.hors-cours::before {
+  content: "⚠ Hors cours du prof — culture générale : ";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.72rem;
+  color: var(--accent);
+}
+
+/* Citation pivot surlignée (style prof) */
+.cite-pivot {
+  background: linear-gradient(120deg, #fff8c5 0%, #fff8c5 100%);
+  padding: 0 0.3rem;
+  border-radius: 2px;
+  font-weight: 500;
+}
+[data-theme="dark"] .cite-pivot {
+  background: linear-gradient(120deg, #4a3f0a 0%, #4a3f0a 100%);
+  color: #f9f0d9;
+}
 .plan p, .plan ul { font-size: 0.95rem; }
 
 /* Notion-link pills */

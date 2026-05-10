@@ -61,6 +61,8 @@ HTML_FILES = [
     "flash/17-etat-flash.html",
     "flash/18-justice-flash.html",
     "flash/19-temps-flash.html",
+    # Fiches transverses (croisent les notions du bloc — leçon du prof)
+    "transverses/bloc-01-conscience-inconscient.html",
 ]
 
 
