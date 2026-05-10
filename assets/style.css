@@ -299,6 +299,23 @@ main {
 .block li.locked { opacity: 0.45; pointer-events: none; }
 .block li.locked a { color: var(--ink-muted); }
 
+/* Mini-bouton flash à côté du lien fiche longue */
+.flash-link {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  color: var(--accent);
+  text-decoration: none;
+  flex: 0 0 auto;
+  transition: all 0.15s;
+}
+.flash-link:hover { background: var(--accent); color: var(--bg); }
+.block li.locked .flash-link { display: none; }
+
 .check {
   width: 16px;
   height: 16px;

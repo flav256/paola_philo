@@ -31,6 +31,8 @@ HTML_FILES = [
     "fiches/06-verite.html",
     "fiches/07-science.html",
     "reperes/reperes-complets.html",
+    # Fiches flash (1 page chacune)
+    "flash/03-conscience-flash.html",
 ]
 
 
