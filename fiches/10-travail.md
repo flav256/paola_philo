@@ -79,3 +79,12 @@ Confondre travail et emploi : on peut travailler sans emploi (mère au foyer, b�
 ## 9. Liens avec les autres notions
 
 Le travail dialogue avec la technique, la liberté, le bonheur, la justice, l'État et la nature.
+
+## Cours du prof — à mobiliser
+
+- **Locke** (*Second Traité du gouvernement civil*, 1690) : « Tout ce que la nature met dans son état de pure nature, l'homme se l'approprie en y mêlant son travail. » Distinction valeur d'usage / valeur d'échange. Concept d'*uneasiness* (inquiétude). Contexte : révolutions anglaises (1642, 1648) et colonisation de l'Amérique (justification implicite de la dépossession des Indiens).
+- **Adam Smith** (*Recherches sur la nature et les causes de la richesse des nations*, 1776) : division du travail (manufacture d'épingles), main invisible (intérêt particulier → bien commun), Mandeville (*Fable des Abeilles* — « les vices privés font la vertu publique »), anecdote du petit garçon et la machine à vapeur, *homo œconomicus*.
+- **Aristote** : chrématistique domestique (cyclique, légitime) vs chrématistique mercantile (spirale infinie). Mythe du roi Midas — tout ce qu'il touche devient or, il meurt de faim.
+- **Marx complet** : « Ce n'est pas la conscience qui détermine la vie, c'est la vie qui détermine la conscience. » (*L'Idéologie allemande*, 1846). Camera obscura : l'idéologie inverse la réalité. Superstructure (idées, droit, morale) / infrastructure (rapports économiques). Lutte des classes (Bourgeois vs Prolétaires). Deux causes structurelles de l'aliénation : fétichisme de la marchandise + force de travail / plus-value. « Le bestial devient l'humain et l'humain devient le bestial. » (*Manuscrits de 1844*). Solution communiste, mais dérive technocratique historique (NEP, apparatchiks, stalinisme).
+- **Hannah Arendt enrichi** (*Condition de l'homme moderne*, 1958) : « Notre société est devenue une société de travailleurs. » Concepts de natalité (chaque naissance = commencement absolu) et de *professio* (« se donner à voir comme »). Distinction temps cyclique du *labor* vs temps linéaire-historique du *work*. Pyramides comme exemple d'œuvre durable monumentale.
+- **Kierkegaard** (*Ou bien… ou bien…*, 1843) : « L'oisiveté est une vie véritablement divine, à condition de ne pas s'y ennuyer. » *Otium* / *skholè* : loisir fécond, condition de la pensée. *Memento mori*.

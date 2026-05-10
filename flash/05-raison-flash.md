@@ -35,3 +35,11 @@ La raison peut-elle tout expliquer, ou doit-elle reconnaître ses limites pour r
 
 - Ne pas confondre **rationnel** et **raisonnable**.
 - Critiquer la raison, c'est encore raisonner — Nietzsche utilise des arguments rationnels.
+
+## Cours du prof — à mobiliser
+
+- **Aristote** : syllogisme (2 prémisses + conclusion, moyen terme = cause). Déduction vs induction.
+- **Pascal** (*De l'esprit géométrique*) : pas de *definiendum* dans le *definiens*.
+- **Heidegger** : *arraisonnement* (homonymie de « moyen » : cause / outil).
+- **Bacon** (*Novum Organum*) : savant comme enquêteur, paradoxe → causes → définitions.
+- **Ionesco** (*Rhinocéros*) : parodie du syllogisme.

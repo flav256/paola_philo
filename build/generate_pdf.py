@@ -63,6 +63,13 @@ HTML_FILES = [
     "flash/19-temps-flash.html",
     # Fiches transverses (croisent les notions du bloc — leçon du prof)
     "transverses/bloc-01-conscience-inconscient.html",
+    "transverses/bloc-02-verite-raison-religion.html",
+    "transverses/bloc-03-science-nature.html",
+    "transverses/bloc-04-travail-technique.html",
+    "transverses/bloc-05-art.html",
+    "transverses/bloc-06-langage.html",
+    "transverses/bloc-07-bonheur-devoir-liberte.html",
+    "transverses/bloc-08-etat-justice-droit.html",
 ]
 
 

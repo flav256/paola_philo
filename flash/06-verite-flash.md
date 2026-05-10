@@ -35,3 +35,11 @@ La vérité est-elle absolue et universelle, ou relative à un sujet, à une ép
 
 - Ne pas confondre **vérité** (du discours) et **réalité** (des choses).
 - Ne pas confondre **véracité** (sincérité) et **vérité** (objectivité).
+
+## Cours du prof — à mobiliser
+
+- **Thomas d'Aquin** : *Veritas est adaequatio intellectus et rei*.
+- **Platon** (*Théétète*) : « savoir = croyance vraie, justifiée, accompagnée de définitions ».
+- **Leibniz** : principe de raison suffisante.
+- **Sceptiques** (Sextus Empiricus) : isosthénie → acatalepsie → ataraxie.
+- **Montaigne** : « Que sais-je ? », ignorance forte vs faible.

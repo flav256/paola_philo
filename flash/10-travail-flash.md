@@ -35,3 +35,11 @@ Le travail aliène-t-il l'homme, ou est-il au contraire ce par quoi il devient l
 
 - Ne pas confondre **travail** et **emploi**.
 - Mobiliser la triade d'Arendt : labor / work / action.
+
+## Cours du prof — à mobiliser
+
+- **Marx** : camera obscura (l'idéologie inverse la réalité), superstructure / infrastructure, lutte des classes. Aliénation = fétichisme de la marchandise + force de travail / plus-value. Solution communiste → dérive technocratique (apparatchiks, stalinisme).
+- **Aristote** : chrématistique domestique (cyclique) vs mercantile (spirale infinie) — roi Midas.
+- **Adam Smith** : division du travail (manufacture d'épingles), main invisible, Mandeville (*Fable des Abeilles*), *homo œconomicus*.
+- **Arendt** : labor / work / action + natalité (commencement absolu), *professio* (« se donner à voir comme »). Pyramides = œuvre durable monumentale.
+- **Kierkegaard** (*Ou bien… ou bien…*, 1843) : « L'oisiveté est une vie véritablement divine, à condition de ne pas s'y ennuyer. » *Otium* / *skholè* — loisir fécond, condition de la pensée.

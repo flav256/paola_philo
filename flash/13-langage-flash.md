@@ -35,3 +35,21 @@ Le langage traduit-il la pensée, ou la constitue-t-il ? Pense-t-on avant les mo
 
 - Distinguer **langage / langue / parole** (Saussure) — attendu.
 - Le langage *fait* aussi (Austin), il ne se contente pas de décrire.
+
+## Cours du prof — à mobiliser
+
+- **Problématique du prof** : « *Pense-t-on ce que l'on dit ?* » Reformulée : comment concilier l'intentionnalité subjective avec l'ordre commun des signes ? Épigraphe à renverser : Boileau, *Art Poétique* (1674).
+- **Étymologie *parabôlè*** : « lancer contre » — la parole comme arc qui décoche la pensée ; courbe (maths), allégorie (rhétorique). Trajet courbe → déformation cohérente.
+- **Aristote** (*Politique*) : *phônè* (voix, animaux) vs *logos* (parole + raison, propre de l'homme politique).
+- **Porphyre** (*Traité de l'abstinence*) : les animaux communiquent universellement et ne mentent pas (corbeaux d'Attique). Contrepoint à Descartes.
+- **Karl von Frisch** (1984) : danse des abeilles, codification abstraite (cercle, analemme) mais univoque, non symbolique.
+- **Descartes** (*Discours*, 5e) : « Les pies et les perroquets peuvent proférer des paroles […] sans témoigner qu'ils pensent ce qu'ils disent. » Test : pies, perroquets, sourds-muets, horloge.
+- **Augustin** (*Homélies* XIV, 7) : « Ce que tu avais conçu en ton cœur n'y était enfermé en aucune langue. » Verbe Intérieur, reprise du *Cratyle*. Sens idéal ≠ significations particulières.
+- **Freud** : lapsus *famillionnaire* (Heine) — condensation + déplacement.
+- **Benveniste** (*pas Saussure !*) : *sheep* (pré, saxons) / *mutton* (assiette, normands) — la langue archive la division sociale médiévale.
+- **Saussure** : langage / langue / parole ; signe arbitraire ; **synchronie / diachronie** (à ajouter).
+- **Merleau-Ponty** (*La Prose du monde*, central) : parole parlée (cliché) vs parole parlante (création vivante). « S'exprimer […] est une opération qui tend à sa propre destruction. » Concept-clé : **déformation cohérente**. Cogito qui ex-iste.
+- **Stendhal** (*La Chartreuse de Parme*) : « perfidité » — néologisme compris immédiatement, déformation cohérente en acte.
+- **Conclusion du prof** : *persona* = porte-voix. « Je suis moins l'auteur que l'interprète des mots que je donne et reçois. » Conscience nécessaire mais non suffisante (contre Descartes).
+- ⚠ **Hors cours du prof** : Wittgenstein, Austin (performatifs), Sapir-Whorf, Orwell, Hegel, Rousseau, Bergson — à ne pas attribuer au cours.
+- ⚠ **Erreur à corriger** : *sheep / mutton* est de **Benveniste**, pas de Saussure.

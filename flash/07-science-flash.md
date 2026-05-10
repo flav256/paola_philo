@@ -35,3 +35,12 @@ La science nous donne-t-elle une vérité définitive sur le réel, ou seulement
 
 - **Scientisme** = idéologie, pas position scientifique.
 - Ne pas confondre **falsifiable** et **faux**.
+
+## Cours du prof — à mobiliser
+
+- **Hume** : induction = habitude psychologique ; jugements de raison vs jugements de fait ; « Tout ce qui est peut ne pas être ».
+- **Kant** : phénomène / noumène, jugement synthétique a priori, révolution copernicienne (« Hume a réveillé Kant du sommeil dogmatique »).
+- **Bacon** (*Novum Organum*) : apologue fourmi / araignée / abeille ; expérience cruciale.
+- **Pascal · Puy-de-Dôme** (1648) : expérience cruciale entre Aristote (horreur du vide) et Torricelli (poids de l'air).
+- **Le Verrier · Neptune** (1846) : la théorie précède l'observation.
+- **Quine-Duhem** : amputation minimale ; un cygne noir ne réfute pas toute la théorie ; science = réseau cohérent.

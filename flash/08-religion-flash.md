@@ -35,3 +35,11 @@ La religion est-elle l'expression d'une vérité supérieure, ou une illusion pa
 
 - Ne pas confondre **religion** et **croyance** en général.
 - Penser à la dimension politique : laïcité, espace public.
+
+## Cours du prof — à mobiliser
+
+- **Étymologie privilégiée** : *relegere* (Cicéron : relire avec scrupule) plutôt que *religare*.
+- **Théologie rationnelle** (Aristote, Premier Moteur) ≠ **révélée** (religion).
+- **Averroès** (*Discours décisif*) : la raison est exigée par la foi ; Univers = artefact, Dieu = Artisan.
+- **Leibniz** : la philosophie comme pont entre Nature (nomologie) et Grâce (téléologie).
+- **Voltaire** (*Zadig*) : ange Jesrad, problème du mal.

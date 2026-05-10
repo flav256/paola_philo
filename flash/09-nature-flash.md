@@ -34,3 +34,12 @@ L'homme est-il dans la nature ou hors d'elle ? A-t-il des devoirs envers elle ?
 
 - **Sophisme naturaliste** (Hume) : ne pas passer de « est » à « doit être ».
 - Préciser le sens de « nature » : monde / essence / vs culture.
+
+## Cours du prof — à mobiliser
+
+- **Versant épistémologique** : la Nature comme objet des sciences (et pas seulement axe éthique/écologique).
+- Étymologie « **co-naître** » (Claudel) ; trois sens de *physis* : Cosmos, réalité objective, Gaïa.
+- **Kant** : nature *pour nous* (phénomène) ≠ nature *en soi* (noumène) — objectivité transcendantale.
+- **Newton** : « *Non fingo hypothesis* » ; nature mathématisée (Galilée).
+- **Bachelard** (*La Formation de l'esprit scientifique*, 1938) : « L'opinion pense mal ; elle ne pense pas. » Rupture épistémologique : la nature scientifique se construit *contre* la nature perçue ; empirisme inventif (lunette de Galilée, balance de Lavoisier).
+- Distinction **physis / nomos** : inné (nature) vs acquis (culture, institutions).

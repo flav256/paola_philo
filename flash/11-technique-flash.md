@@ -35,3 +35,13 @@ La technique nous libère-t-elle, ou nous échappe-t-elle pour devenir un systè
 
 - La technique n'est pas **moralement neutre** : elle façonne nos désirs.
 - Éviter technophilie naïve / technophobie. La philosophie pense l'ambivalence.
+
+## Cours du prof — à mobiliser
+
+- **Heidegger central** (*Qu'appelle-t-on penser ?*, 1954) : arraisonnement (*Ge-stell*), monde comme « fonds » (*Bestand*). « La science raisonne mais ne pense pas. » Aléthéia (désoubli).
+- **Aristote** : *poïésis* (production d'un objet extérieur) vs *praxis* (action ayant sa fin en elle-même). Souffrance moderne = oubli de la praxis.
+- **Marx** : abeille et architecte ; retournement dialectique outil / homme. « Nous ne percevons pas le monde de la même manière selon que nous nous déplaçons en voiture, en avion ou à cheval. »
+- **Arendt** : *homo faber*, œuvre durable monumentale (Pyramides). Technique culturelle vs technique laborieuse.
+- **Smith** : division du travail engendre l'invention (anecdote du petit garçon et la machine à vapeur).
+- **Technocratie** : dérive politique. Technique (manière d'agir) vs technologie (manière de penser, mode de dévoilement) au sens heideggérien.
+- ⚠ **Hors cours du prof** : Jonas, Ellul, Bergson — à ne pas attribuer au cours dans une copie.

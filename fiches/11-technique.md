@@ -83,3 +83,13 @@ Confondre technique et science : la science cherche le savoir, la technique le p
 ## 9. Liens avec les autres notions
 
 La technique dialogue avec le travail, la science, la nature, la liberté, le devoir et le bonheur.
+
+## Cours du prof — à mobiliser
+
+- **Heidegger central** (*Qu'appelle-t-on penser ?*, 1954) : concept d'**arraisonnement** (*Ge-stell*) — le monde comme *fonds disponible* (*Bestand*). « Parce qu'elle est technique, [notre époque] est l'époque de la machine. » « La science raisonne mais ne pense pas. » Aléthéia (vérité comme désoubli). Critique : la rationalité technique fait apparaître tout (humain, nature, animal) comme ressource à exploiter.
+- **Aristote** : *poïésis* (action productrice, qui produit un objet extérieur) vs *praxis* (action morale et politique, qui a sa fin en elle-même). Notre souffrance moderne = oubli de la praxis au profit de la poïésis.
+- **Marx sur la technique** : l'abeille et l'architecte (l'architecte conçoit avant, donc dépend d'une force qui le précède). Retournement dialectique outil / homme : l'identité humaine est produite par les artefacts. « Nous ne percevons pas le monde de la même manière selon que nous nous déplaçons en voiture, en avion ou à cheval. »
+- **Hannah Arendt — homo faber** : crée l'œuvre durable, monumentale (Pyramides). Temps linéaire-historique de l'œuvre vs temps cyclique du labeur. Distinction technique culturelle (création) vs technique laborieuse (consommation).
+- **Adam Smith** : anecdote du petit garçon — la division du travail engendre l'invention machinique.
+- **Distinction technocratie** : dérive politique de la technique (lien avec Marx + totalitarismes du XXe). Technique (manière d'agir) vs technologie (manière de penser) au sens heideggérien — c'est la technologie comme mode de dévoilement qui est dangereuse.
+- ⚠ **Hors cours du prof** : Jonas, Ellul, Bergson sont présents dans la fiche mais **absents du cours du prof**. À ne pas attribuer au cours dans une copie.
