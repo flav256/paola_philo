@@ -73,18 +73,23 @@ paola_philo/
 
 ---
 
-## 📚 État actuel — 10 mai 2026
+## 📚 État actuel — mai 2026
 
-**Fait** :
+**Fait** ✓ :
 - Méthodologie (dissertation + explication)
-- Repères philosophiques
-- 5 notions au format long : conscience, inconscient, raison, vérité, science
-- Conscience reformatée au nouveau format court (template de référence)
+- Repères philosophiques (29 distinctions)
+- **17 notions × 2 formats** : fiche longue (3 pages) + fiche flash (1 page)
+  - Bloc 1 (Conscience, Inconscient)
+  - Bloc 2 (Vérité, Raison, Religion)
+  - Bloc 3 (Science, Nature)
+  - Bloc 4 (Travail, Technique)
+  - Bloc 5 (Art)
+  - Bloc 6 (Langage)
+  - Bloc 7 (Bonheur, Devoir, Liberté)
+  - Bloc 8 (État, Justice)
+  - Bloc 9 (Temps)
 
-**À faire** :
-- Refonte format court : inconscient, raison, vérité, science (4)
-- Nouvelles fiches longues : 12 notions
-- Fiches flash : 17 (toutes notions)
+**À venir (sprint final)** :
 - Annales corrigées récentes
 - Mémo citations transverse
 

@@ -39,6 +39,9 @@ HTML_FILES = [
     "fiches/14-bonheur.html",
     "fiches/15-devoir.html",
     "fiches/16-liberte.html",
+    "fiches/17-etat.html",
+    "fiches/18-justice.html",
+    "fiches/19-temps.html",
     "reperes/reperes-complets.html",
     # Fiches flash (1 page chacune)
     "flash/03-conscience-flash.html",
@@ -55,6 +58,9 @@ HTML_FILES = [
     "flash/14-bonheur-flash.html",
     "flash/15-devoir-flash.html",
     "flash/16-liberte-flash.html",
+    "flash/17-etat-flash.html",
+    "flash/18-justice-flash.html",
+    "flash/19-temps-flash.html",
 ]
 
 
