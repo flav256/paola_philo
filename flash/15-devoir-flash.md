@@ -35,3 +35,17 @@ Le devoir nous contraint-il, ou est-ce en lui obéissant que nous accédons à l
 
 - Distinguer **devoir** et **contrainte** ; **légal** et **moral**.
 - Citer l'impératif catégorique en précisant *quelle* formule (universalisation, fin en soi, règne des fins).
+
+## Cours du prof — à mobiliser
+
+- **Descartes** (*Méditations* IV, *Lettre à Mersenne* 1645) : **liberté d'indifférence** = plus bas degré ; **liberté de détermination éclairée** (par le clair et distinct) = achèvement. Volonté infinie = trace du divin.
+- **Acrasie** : « Je vois le bien, j'y consens et je fais le mal » (Médée, Ovide, *Métamorphoses* VII, 20) ; « Je ne réalise pas le bien que je voudrais » (Saint Paul, *Romains* 7, 18-19) ; **Âne de Buridan** (*Questions sur le Traité de l'Âme*) — pouvoir de trancher sans raison.
+- **Kant · « Tu dois, donc tu peux »** : postulat libérateur (*Critique de la raison pratique*). Le devoir présuppose la liberté.
+- **Kant · raison pratique** = à la fois **législatrice** (édicte la loi) **et exécutrice** (oblige effectivement).
+- **Kant · 3 formules de l'impératif catégorique** (*Fondements*, 1785) :
+  - **(1) Loi universelle** — agir selon une maxime universalisable.
+  - **(2) Fin en soi** — « Traite l'humanité toujours comme une *fin*, jamais simplement comme un *moyen*. »
+  - **(3) Règne des fins** — agir comme législateur d'une communauté idéale d'êtres rationnels.
+- **Kant · quadripartition** : **anomie** (chaos) / **hétéronomie** (loi imposée) / **autonomie** (loi qu'on se donne = liberté véritable) / **déterminisme** (causalité naturelle).
+- **Exemple du marchand probe** (*Fondements*) : agir **par devoir** vs **conformément au devoir**. Plus précis que l'exemple du menteur.
+- **Liberté transcendantale** (terme exact kantien) : capacité de commencer absolument une série causale par la raison pratique, hors du déterminisme phénoménal.

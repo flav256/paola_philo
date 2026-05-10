@@ -35,3 +35,14 @@ Sommes-nous libres au sens où nous le croyons, ou les déterminismes nous trave
 
 - Distinguer **liberté** et **libre arbitre**.
 - Déterminisme et liberté ne s'excluent pas (Spinoza, Hegel).
+
+## Cours du prof — à mobiliser
+
+- **Buridan** (*Questions sur le Traité de l'Âme*) : l'**Âne de Buridan**, paralysé à équidistance de deux picotins. Libre-arbitre = pouvoir de **trancher sans raison**. Reprise de Dante (*Paradis* IV) et Aristote (*Traité du Ciel* II, 13).
+- **Acrasie** (faiblesse de volonté) : Médée (Ovide), Saint Paul (*Romains* 7, 18-19).
+- **Descartes** (*Méditations* IV, *Lettre à Mersenne* 1645) : **indifférence** = plus bas degré ; **détermination éclairée** = achèvement de la liberté.
+- **Stoïciens enrichis** (manquants dans la fiche actuelle !) : **Épictète** (*Manuel*) — « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » **Cicéron** (*Des Fins ultimes*) — métaphore de l'**archer** (visée dépend de nous, atteinte non). Sénèque, Marc-Aurèle. **Calderón** (*La Vie est un songe*, 1635) : Sigismond — on rêve la liberté.
+- **Spinoza enrichi** (*Éthique* III prop. 9 sc. ; *Lettre à Schuller* 1677) : **conatus**. « Nous ne désirons pas une chose parce que nous la jugeons bonne, mais nous la jugeons bonne parce que nous la désirons. » Métaphore de la **pierre qui pense tomber**.
+- **Schopenhauer** (absent de la fiche actuelle) — *Essai sur le libre-arbitre* : le libre-arbitre est **illusion**. La **Volonté** agit à travers nous. Métaphore de l'**eau**.
+- **Kant** : **quadripartition** = **anomie / hétéronomie / autonomie / déterminisme** (4 termes, pas seulement 2). **Liberté transcendantale** (terme exact) : capacité de commencer absolument une série causale par la raison pratique. « Tu dois, donc tu peux. »
+- **Plutarque** (*Des contradictions des Stoïciens*) : objection — si le Destin gouverne tout, ce n'est pas moi qui choisis d'y consentir. Mon assentiment est lui-même destiné.

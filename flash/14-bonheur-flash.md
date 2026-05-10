@@ -34,3 +34,12 @@ Le bonheur dépend-il de nous, ou des circonstances que nous ne maîtrisons pas 
 
 - Ne pas réduire le bonheur au **plaisir** (durée, totalité).
 - Pour Kant, la morale ne *vise* pas le bonheur — mais qui est moral le *mérite*.
+
+## Cours du prof — à mobiliser
+
+- **Schopenhauer** : pendule **souffrance/ennui** (du désir / une fois comblé). Bonheur = illusion subjective, négatif. Trois portes de sortie : pitié, art, ascèse. Sources : *Essai sur le libre-arbitre*, *Le Monde comme Volonté et Représentation*.
+- **Spinoza** (*Éthique* III prop. 9 sc. ; *Lettre à Schuller*, 1677) : « Nous ne désirons pas une chose parce que nous la jugeons bonne, mais nous la jugeons bonne parce que nous la désirons. » *Conatus* précède le jugement. Critique de l'illusion finaliste. Métaphore de la **pierre qui pense tomber**.
+- **Stoïciens enrichis** : Épictète (*Manuel*) : « Il y a des choses qui dépendent de nous et d'autres qui n'en dépendent pas. » Trois indifférents (plaisir/douleur, santé/maladie, richesse/pauvreté). Cicéron (*Des Fins ultimes*) : métaphore de l'**archer** (visée dépend de nous, atteinte non). Vie = pièce de théâtre. **Ataraxie** = vertu = constance = assentir au Destin. *Cura sui*, cosmocentrisme.
+- **Calderón** (*La Vie est un songe*, 1635) : Sigismond — on rêve la liberté ; ce qui compte est le comportement éveillé.
+- **Kant** : bonheur = **idéal régulateur**, non déterminant. Distinction morale (devoir) / éthique (recherche du bonheur). Qui agit moralement *mérite* le bonheur. « Tu dois, donc tu peux. »
+- **Balzac** (exergue *La Peau de chagrin*, 1831) : « Vouloir nous brûle et pouvoir nous détruit. » Triade **vouloir / pouvoir / savoir**.
